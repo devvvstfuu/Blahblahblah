@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "HIEEEEEEE🌻😝",
-      subtitle: "I really like your name btw (Rakshassss)"
+      subtitle: "I really like your name btw muheheehehehehehe"
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "HIEEEEE ANUSHKAAAAAAAABSHWHAHAHAHAHA, to to to eventually apna bhi 1 year complete hogya, yaad hai kaise i texted you pheli bar aapke birthday se 2days phele BWHAHAHAHAHAA LIKE A DUMB GUY 😝and phir waha se we're here together yaayayayayayayayayayay. Tere sath sab kuch best tha and best hai meri life mein. Immmmm go grateful to have you in myyyylifeeee. can’t express how happy I feel with you every second. From our late night calls to texting, laughing for no reason, annoying you, ragebaiting you, and then showing Nakhre just to get your attention, I’ll always say this you are the best thing in my life. THANKYOUUUUU FOR EVERYTHINGGGG MYLOVEEEEEE ILOVEEEYOUUUUUSOOOMUCHHHHHHH AND YESSSSS HAPPPYYYYYY BIRTHDAYYYYYYYY  BABYYYYYYY",
+        "HIEEEEE ANUSHKAAAAAAAABSHWHAHAHAHAHA, to to to eventually apna bhi 1 year complete hogya, yaad hai kaise i texted you pheli bar aapke birthday se 2days phele BWHAHAHAHAHAA LIKE A DUMB GUY 😝and phir waha se we're here together yaayayayayayayayayayay. Tere sath sab kuch best tha and best hai meri life mein. Immmmm so grateful to have you in myyyylifeeee. can’t express how happy I feel with you every second. From our late night calls to texting, laughing for no reason, annoying you, ragebaiting you, and then showing Nakhre just to get your attention, I’ll always say this you are the best thing in my life. THANKYOUUUUU FOR EVERYTHINGGGG MYLOVEEEEEE ILOVEEEYOUUUUUSOOOMUCHHHHHHH AND YESSSSS HAPPPYYYYYY BIRTHDAYYYYYYYY  BABYYYYYYY",
       buttonText: "Send",
     },
     {
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "HAPPYYY BIRTHDAYYY",
-      wishText: "Hamesha mere Nakhre enjoy karo aur mere sath raho with random weird cute se nickname hahahahahaha",
+      wishText: "Hamesha mere Nakhre enjoy karo aur mere sath raho with random weird cute se nickname hahahahahaha, really thank you everything💕🥹",
     },
     {
       type: "fireworks",
