@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "ANUSHKAAAAAA",
+  name: "TEJASHVIIII",
   photo: "./img/crazy.jpg",       // Place your photo in the img/ folder
   music: "./music/mybaby.mp3",      // Place your music in the music/ folder
 
@@ -55,22 +55,22 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "HIEEEEEEE🌻😝",
-      subtitle: "I really like your name btw muheheehehehehehe"
+      title: "HIEEEEEEE😝",
+      subtitle: "I really like your name btw bwhahahahahaha"
     },
     {
       type: "countdown",
       from: 3,                    // Countdown from this number
-      goText: "🌻🌻💕🥹",              // Text shown after countdown ends
+      goText: "😘🤭🙂‍↕️",              // Text shown after countdown ends
     },
     {
       type: "announcement",
-      text: "ITSSSS YOURRRR BIRTHDAYYYYYYY",
+      text: "ITSSSS ONLY FOR YOUU",
     },
     {
       type: "chatbox",
       message:
-        "HIEEEEE ANUSHKAAAAAAAABSHWHAHAHAHAHA, to to to eventually apna bhi 1 year complete hogya, yaad hai kaise i texted you pheli bar aapke birthday se 2days phele BWHAHAHAHAHAA LIKE A DUMB GUY 😝and phir waha se we're here together yaayayayayayayayayayay. Tere sath sab kuch best tha and best hai meri life mein. Immmmm so grateful to have you in myyyylifeeee. can’t express how happy I feel with you every second. From our late night calls to texting, laughing for no reason, annoying you, ragebaiting you, and then showing Nakhre just to get your attention, I’ll always say this you are the best thing in my life. THANKYOUUUUU FOR EVERYTHINGGGG MYLOVEEEEEE ILOVEEEYOUUUUUSOOOMUCHHHHHHH AND YESSSSS HAPPPYYYYYY BIRTHDAYYYYYYYY  BABYYYYYYY",
+        "HIEEEEEE TEJASHVI, You have the most beautiful eyes that sparkle with a warmth i cant describe and your lips look so soft and inviting they make me smile every time i think about them your long hairs fall so gracefully framing your lovely face with those cute cheeks that blush so naturally your body is stunning with a slim waist that makes you look elegant and graceful even though we havent known each other for a long time i feel so safe and special with you like no one else makes me feel this way.",
       buttonText: "Send",
     },
     {
@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "YOU ARE SPECIAL:3 AND YOU DESERVE EVERYTHING MYYLOVEEE, ILOVEEEYOUUUSOOOMUCHH. Every second I spend with you is important to me and always will be. Every conversation of ours matters and always will. I’m truly thankful for everything for having you in my life, by my side, and for everything you’ve done for me. <span>:)</span>",
+        "YOU ARE SPECIAL AND YOU DESERVE EVERYTHING AND YOU DESERVE ME. <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "HAPPYYY BIRTHDAYYY",
-      wishText: "Hamesha mere Nakhre uthaya karo aur kya bahwhahahaaaha🤭🌻🌻, really thank you everything💕🥹",
+      wishTitle: "SO CAN I BE YOUR BOYFRIEND?",
+      wishText: "Hopefully now you know abt my feelings bwhahahah",
     },
     {
       type: "fireworks",
